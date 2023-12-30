@@ -139,18 +139,18 @@ header .fa-bars{
 }
 .home .content h3{
     font-size: 6rem;
-    color: var(--dark-lav);
+    color: var(--text-lav);
     font-weight: 500;
 }
 .home .content span{
     font-size: 3.5rem;
-    color: var(--text-lav);
+    color: #000;
     padding: 1rem 0;
     line-height: 1.7;
 }
 .home .content p{
     font-size: 1.8rem;
-    color: var(--grey);
+    color: #333;
     padding: 1rem 0;
     line-height: 1.5;
 }
@@ -468,6 +468,7 @@ header .fa-bars{
 }
 .contact .popup .btn{
     width: 100%;
+    background: var(--dark-lav);
 }
 
 .footer .box-container{
